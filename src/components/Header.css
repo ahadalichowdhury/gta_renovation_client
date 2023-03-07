@@ -1,0 +1,44 @@
+.header-nav a {
+  font-size: large;
+  text-decoration: none;
+  color: darkslateblue;
+}
+
+.header-nav a:hover {
+  color: rgb(147, 64, 5);
+  border-bottom: 2px solid rgb(147, 64, 5);
+}
+
+.cardStyle {
+  background-image: linear-gradient(to right, #4a82bd, #000);
+  color: white;
+}
+
+.about {
+  height: 600px;
+  background-image: url("../assets/image/kitchen.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  line-height: 20px;
+}
+.about-details {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+/*image**/
+
+.image img {
+  width: 7rem;
+}
+
+@media screen and (max-width: 768px) {
+  .image img {
+    width: 4rem;
+  }
+}
+
+.typeWriterText {
+  font-size: 40px;
+}

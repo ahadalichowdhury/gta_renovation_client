@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daf0efd7.css",
+    "main.js": "/static/js/main.575490e8.js",
+    "static/media/kitchen.png": "/static/media/kitchen.f9830a54bba5d87c551b.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/drywall.jpg": "/static/media/drywall.15c0f8322485ed7f8393.jpg",
+    "static/media/paintbrush.jpg": "/static/media/paintbrush.0e8d5333b7d068ac3d75.jpg",
+    "static/media/plaster.jpg": "/static/media/plaster.8027adbe97488b6a7147.jpg",
+    "static/media/electrical.jpg": "/static/media/electrical.f7421cd1aff610aba81f.jpg",
+    "static/media/hammer.jpg": "/static/media/hammer.e970cb4aa102c6eae632.jpg",
+    "static/media/map.jpeg": "/static/media/map.87b5928ae5468a86125d.jpeg",
+    "static/media/Navlogo.png": "/static/media/Navlogo.295b70d3fc00547455de.png",
+    "index.html": "/index.html",
+    "main.daf0efd7.css.map": "/static/css/main.daf0efd7.css.map",
+    "main.575490e8.js.map": "/static/js/main.575490e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf0efd7.css",
+    "static/js/main.575490e8.js"
+  ]
+}
